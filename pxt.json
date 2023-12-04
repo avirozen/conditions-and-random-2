@@ -1,5 +1,5 @@
 {
-    "name": "conditions and random 1",
+    "name": "conditions and random 1 - Copy",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -15,7 +15,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "6.0.22",
+        "target": "6.0.24",
         "targetId": "microbit"
     },
     "supportedTargets": [
